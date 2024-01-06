@@ -16,7 +16,7 @@
 [linkedin]: https://linkedin.com/in/ivan-garcia-880119255
 
 - 🔭 I’m currently working ... As a student Programmer in Weber State University
-- - 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python
 
 <!---
 Ivangarcia389/Ivangarcia389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
